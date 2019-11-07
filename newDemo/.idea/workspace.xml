@@ -10,13 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7343d970-440d-4c1e-b908-6a0f7c664ca3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateAlipayQRCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateAlipayWap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/classes/artifacts/demo_jar/demo.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/classes/artifacts/demo_jar/demo.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/oldDemo/oldDemo.jar" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/oldDemo/oldDemo.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/newDemo.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/caiMeng/createWxFixedPay.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/caiMeng/createWxFixedPay.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -212,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-1928" />
     <option name="y" value="122" />
     <option name="width" value="1936" />
@@ -535,7 +531,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="122" width="1936" height="1056" extended-state="6" />
+    <frame x="-1928" y="122" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994401" visible="true" weight="0.26119402" />
       <window_info id="Image Layers" order="1" />
