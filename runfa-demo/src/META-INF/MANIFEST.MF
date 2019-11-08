@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Class-Path: jackson-datatype-jsr310-2.9.8.jar spring-boot-starter-web-
+ 2.0.9.RELEASE.jar jackson-datatype-jdk8-2.9.8.jar jul-to-slf4j-1.7.26
+ .jar junit-4.12.jar jackson-annotations-2.9.0.jar log4j-api-2.10.0.ja
+ r javax.annotation-api-1.3.2.jar log4j-to-slf4j-2.10.0.jar spring-bea
+ ns-5.0.13.RELEASE.jar slf4j-api-1.7.26.jar commons-codec-1.11.jar spr
+ ing-web-5.0.13.RELEASE.jar jackson-module-parameter-names-2.9.8.jar h
+ amcrest-core-1.3.jar fastjson-1.2.59.jar spring-boot-starter-tomcat-2
+ .0.9.RELEASE.jar spring-boot-starter-json-2.0.9.RELEASE.jar logback-c
+ ore-1.2.3.jar spring-boot-starter-freemarker-2.0.9.RELEASE.jar valida
+ tion-api-2.0.1.Final.jar spring-boot-2.0.9.RELEASE.jar freemarker-2.3
+ .28.jar tomcat-embed-websocket-8.5.39.jar httpcore-4.4.11.jar jackson
+ -core-2.9.8.jar spring-boot-starter-2.0.9.RELEASE.jar hibernate-valid
+ ator-6.0.16.Final.jar tomcat-embed-core-8.5.39.jar spring-boot-autoco
+ nfigure-2.0.9.RELEASE.jar jackson-databind-2.9.8.jar spring-expressio
+ n-5.0.13.RELEASE.jar commons-logging-1.2.jar spring-aop-5.0.13.RELEAS
+ E.jar logback-classic-1.2.3.jar jboss-logging-3.3.2.Final.jar spring-
+ context-support-5.0.13.RELEASE.jar spring-boot-starter-logging-2.0.9.
+ RELEASE.jar tomcat-embed-el-8.5.39.jar snakeyaml-1.19.jar spring-cont
+ ext-5.0.13.RELEASE.jar spring-webmvc-5.0.13.RELEASE.jar spring-jcl-5.
+ 0.13.RELEASE.jar classmate-1.3.4.jar spring-core-5.0.13.RELEASE.jar h
+ ttpclient-4.5.9.jar commons-lang3-3.7.jar
+Main-Class: 
+
