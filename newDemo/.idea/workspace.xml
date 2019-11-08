@@ -10,13 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7343d970-440d-4c1e-b908-6a0f7c664ca3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../runfa-demo/.idea/artifacts/runfa.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../runfa-demo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../runfa-demo/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/BaseData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/CreatePayOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/CreatePayOrder.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -92,8 +87,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/caiMeng/BaseData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1288">
-              <caret line="60" column="29" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="29" />
+            <state relative-caret-position="299">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#352#353#0" expanded="true" />
@@ -217,7 +212,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -286,37 +281,7 @@
             <path>
               <item name="newDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="newDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="regex" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: com.alibaba:fastjson:1.2.59" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
@@ -514,7 +479,7 @@
       <workItem from="1572923049806" duration="608000" />
       <workItem from="1572933864087" duration="773000" />
       <workItem from="1573092919355" duration="647000" />
-      <workItem from="1573110985861" duration="6504000" />
+      <workItem from="1573110985861" duration="7159000" />
     </task>
     <task id="LOCAL-00001" summary="增加云闪付动态码">
       <created>1573111398346</created>
@@ -527,7 +492,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196406000" />
+    <option name="totallyTimeSpent" value="197061000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -539,7 +504,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994401" visible="true" weight="0.26119402" />
       <window_info id="Image Layers" order="1" />
@@ -549,7 +514,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.30911064" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" weight="0.30911064" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3445287" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -892,8 +857,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/caiMeng/BaseData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1288">
-          <caret line="60" column="29" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="29" />
+        <state relative-caret-position="299">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#352#353#0" expanded="true" />
