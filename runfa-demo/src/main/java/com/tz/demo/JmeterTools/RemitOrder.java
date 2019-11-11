@@ -7,6 +7,7 @@ import com.tz.demo.util.DateUtils;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Random;
 
 public class RemitOrder {
     public static JSONObject createRemitOrder(String merchantOrderNo, String bankCode, String amount, String bankcardAccountNo, String bankcardAccountName, String notifyUrl, String merchantNo) {
@@ -28,7 +29,7 @@ public class RemitOrder {
 
     public static JSONObject createRemitOrder(String merchantNo, String amount) {
         String merchantOrderNo = BaseData.getUUID();
-        String bankcardAccountNo = "123456789123456789";
+        String bankcardAccountNo = "621558180300381" + new Random().nextInt(1000000);
         String notifyUrl = "http://apitest.caimengpay.com/api/payOrder/testSuccessCallback";
         String bankcardAccountName = "袁达";
         String bankCode = "ICBC";
@@ -37,7 +38,7 @@ public class RemitOrder {
 
     public static JSONObject createRemitOrder(String merchantNo) {
         String amount = BaseData.getAmount();
-        return RemitOrder.createRemitOrder(amount, merchantNo);
+        return RemitOrder.createRemitOrder(merchantNo, amount);
     }
 
     public static JSONObject queryRemitOrder(String merchantOrderNo, String merchantNo) {

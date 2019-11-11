@@ -31,13 +31,13 @@ public class PayOrder {
         String model = "ebank";
         String notifyUrl = "http://apitest.caimengpay.com/api/payOrder/testSuccessCallback";
         String bankCode = "ICBC";
-        String memberNo = BaseData.getAmount();
+        String memberNo = BaseData.generateKey();
         return PayOrder.createPayOrder(merchantOrderNo, model, amount, memberNo, bankCode, notifyUrl, merchantNo);
     }
 
     public static JSONObject createPayOrder(String merchantNo) {
         String amount = BaseData.getAmount();
-        return PayOrder.createPayOrder(amount, merchantNo);
+        return PayOrder.createPayOrder(merchantNo, amount);
     }
 
     public static JSONObject queryPayOrder(String merchantOrderNo, String merchantNo) {

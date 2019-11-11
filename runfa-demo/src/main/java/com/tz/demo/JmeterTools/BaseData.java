@@ -39,6 +39,18 @@ public class BaseData {
         return (num + ran / 100.00) + "";
     }
 
+    public static String generateKey() {
+        String AESKey = "";
+        int number;
+        java.util.Random random = new java.util.Random();
+
+        for (int i = 0; i < 16; i++) {
+            number = Math.abs(random.nextInt()) % 10;
+            AESKey += number;
+        }
+        return AESKey;
+    }
+
     public static void main(String[] args) {
         System.out.println(getAmount());
     }
