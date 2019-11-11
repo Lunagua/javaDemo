@@ -7,82 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5a0524b-5e22-407a-a9a5-8c8f303ad650" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/runfa.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/demo_jar.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../runfa-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/CreatePayOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../newDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../readm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/artifacts/runfa.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__com_alibaba_fastjson_1_2_59.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__com_alibaba_fastjson_1_2_59.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_39.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_39.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_39.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_39.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_39.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_39.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_9_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_9_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_9_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_0_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_0_9_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_9_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_9_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_9_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_9_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_spring_aop_5_0_13_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_spring_aop_5_0_13_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_spring_beans_5_0_13_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_spring_beans_5_0_13_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_spring_context_5_0_13_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_spring_context_5_0_13_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_13_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_13_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_spring_core_5_0_13_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_spring_core_5_0_13_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_spring_expression_5_0_13_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_spring_expression_5_0_13_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_13_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_13_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_spring_web_5_0_13_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_spring_web_5_0_13_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_13_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_13_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/classes/artifacts/runfa/runfa.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/demo/DemoStarter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/demo/JmeterTools/BaseData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/demo/JmeterTools/CreatePayOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/demo/constant/Constant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/demo/controller/DemoController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/demo/service/DemoService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/demo/test/DemoTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/demo/util/AESUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/demo/util/DateUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/demo/util/HttpUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/demo/util/RSAUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa/runfa.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xiaoxx/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xiaoxx/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xiaoxx/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xiaoxx/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -133,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateWechatQRCode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            <state relative-caret-position="69">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -302,6 +233,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -363,15 +296,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../runfa-demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../newDemo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -524,6 +455,8 @@
       <workItem from="1573214501114" duration="2641000" />
       <workItem from="1573219854622" duration="1021000" />
       <workItem from="1573220895739" duration="13000" />
+      <workItem from="1573221152885" duration="16000" />
+      <workItem from="1573437374816" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="新增支付方式：支付宝二维码、支付宝wap、微信二维码、微信wap">
       <created>1573114238924</created>
@@ -568,7 +501,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84760000" />
+    <option name="totallyTimeSpent" value="84787000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -582,7 +515,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910554" visible="true" weight="0.221875" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910554" visible="true" weight="0.22654584" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -611,7 +544,7 @@
       <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" x="-1103" y="58" width="285" height="923" id="Structure" order="9" sideWeight="0.5008944" side_tool="true" visible="true" weight="0.13645834" />
+      <window_info anchor="right" x="-1103" y="58" width="285" height="923" id="Structure" order="9" sideWeight="0.5008944" side_tool="true" visible="true" weight="0.13539445" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -866,8 +799,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateWechatQRCode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        <state relative-caret-position="69">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
