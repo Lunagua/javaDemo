@@ -55,11 +55,6 @@ public class RSAUtils {
         return new String(decrypt(content.getBytes("UTF-8"), key), "UTF-8");
     }
 
-    public static void main(String[] args) throws BadPaddingException, NoSuchAlgorithmException, IOException, IllegalBlockSizeException, InvalidKeyException, InvalidKeySpecException {
-        String res = decryptByPublicKey("HpymdVdcJ3SO0JN/mIrrYL/YnclI0o981pmSFnKwxJcPMtXp3FmovoEVehdNcdYih5JTCentLk+/vCS9wIfcjFcqi3jisrz4ZnjomRA8xxTbn4M6CauKocf7SJDqxd23zdP1MvLMCgguKU3ryYGziKsJZD8pMl2+f5lI+TyqO3Y=", Constant.PUBLIC_KEY);
-        System.out.println(res);
-    }
-
     /**
      * RSA公钥转换
      *

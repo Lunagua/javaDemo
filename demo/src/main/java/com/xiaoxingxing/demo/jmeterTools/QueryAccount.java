@@ -82,20 +82,4 @@ public class QueryAccount {
         System.out.println(dataDecrypt);
         return dataDecrypt;
     }
-
-
-    public static void main(String[] args) {
-        String data = queryBalance();
-        System.out.println(data);
-        String key = getKeyEncrypt(Constant.PRIVATE_KEY);
-        System.out.println(key);
-
-
-        String resData = "FobBtRHnU7pYgQgxkf0hqk6PJlo0imRGg09qgcYnKftjNOOyRsq1+Cn0SnooMNEdLyJxhgPxIbRzafII7VUtrikaRFAcArm9PhwfRnHNYxw=";
-        String resKey = "DfMnQUqCh6lxFnxZ/Em6SxiiPFFaTg4JWC4WWG6BZznLWhWnhvld3vaJf4JeOF8DABH8HkbRXLSg8tE7ZHRqg8BLrTravjZd8SCQID9xAlmcv8ofsDYfguIw7Dt3pYXRPpHdmuDvz8c5YK4awjCsRsjudTmcKUWgdqGEcWj5l0A=";
-
-
-        getDataDecrypt(resData, resKey, Constant.PUBLIC_KEY);
-    }
-
 }

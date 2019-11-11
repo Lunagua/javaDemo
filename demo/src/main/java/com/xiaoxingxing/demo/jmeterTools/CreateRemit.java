@@ -99,19 +99,5 @@ public class CreateRemit {
         System.out.println(dataDecrypt);
         return dataDecrypt;
     }
-
-    public static void main(String[] args) throws Exception {
-        String data = getDataEncrypt();
-        System.out.println(data);
-//        String key = getKeyEncrypt(Constant.PRIVATE_KEY);
-//        System.out.println(key);
-        String resData = "FHI/pHVvPzX7Hytz9UqT7FPbfJkjB52QMLYxrJbE2kxlJo7YL8/+T5+mPJjM0zHLwPBUAqOtEbBFiv2LYml/myv8hIHA2HU/AAfBuwhR9oohPSFag0IbKXL0j44xUNi+";
-        String resKey = "MoM2DjZ0PJ7dI4usbBMV+OtM5J4aoqIdgJfk9F/aAatEpwR8htxODYs+HWDX5K9hnr0SSIbfWpKES98ZaI9KZzk6hG4ZaQceRjEHVrcThruKZxR7yihpyZ+Fs9Ky+44zAzXofmpMdJEV2WLyuhw8NkYhdQ1Oom4UuQskg1SxcIc=";
-
-
-//        getDataDecrypt(resData,resKey,Constant.PUBLIC_KEY);
-
-
-    }
 }
 

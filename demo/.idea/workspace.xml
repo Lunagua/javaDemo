@@ -19,7 +19,6 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/QueryUPOPOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/QueryUPOPOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/test.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/util/RSAUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/util/RSAUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -453,7 +452,7 @@
       <workItem from="1573220895739" duration="13000" />
       <workItem from="1573221152885" duration="16000" />
       <workItem from="1573437374816" duration="11000" />
-      <workItem from="1573464290554" duration="3730000" />
+      <workItem from="1573464290554" duration="3807000" />
     </task>
     <task id="LOCAL-00001" summary="新增支付方式：支付宝二维码、支付宝wap、微信二维码、微信wap">
       <created>1573114238924</created>
@@ -462,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573114238924</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="清除脏数据">
+      <created>1573473589407</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573473589407</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -498,7 +504,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88517000" />
+    <option name="totallyTimeSpent" value="88594000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -511,8 +517,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910554" visible="true" weight="0.22867803" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910554" visible="true" weight="0.22867803" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -523,14 +530,14 @@
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="5" sideWeight="0.49840087" weight="0.32936078" />
+      <window_info anchor="bottom" id="TODO" order="5" sideWeight="0.49840087" weight="0.3286334" />
       <window_info anchor="bottom" id="Duplicates" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" sideWeight="0.49946696" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.329718" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.25893825" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49946696" visible="true" weight="0.329718" />
       <window_info anchor="bottom" x="22" y="375" width="1876" height="290" id="Run" order="13" sideWeight="0.50053304" side_tool="true" weight="0.2654388" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -575,7 +582,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新增支付方式：支付宝二维码、支付宝wap、微信二维码、微信wap" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增支付方式：支付宝二维码、支付宝wap、微信二维码、微信wap" />
+    <MESSAGE value="清除脏数据" />
+    <option name="LAST_COMMIT_MESSAGE" value="清除脏数据" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

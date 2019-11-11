@@ -84,19 +84,4 @@ public class QueryUPOPOrder {
         System.out.println(dataDecrypt);
         return dataDecrypt;
     }
-
-
-    public static void main(String[] args) {
-        String data = queryUPOPOrder("1565330857842");
-        System.out.println(data);
-        String key = getKeyEncrypt(Constant.PRIVATE_KEY);
-        System.out.println(key);
-
-
-        String resData = "tR6o3PgT2lqf06/7OzsIbK3N76fW6xeW4huTKxKmGPZmcVYZDyQyZ9MP2JyIHjSQVrJaDDq+6FUx01u6GuaSIvni5Ecsx5YFLqPY0F5Auq5UIkgiRS7mtf4Bbv0Etddr";
-        String resKey = "neoEoWT+QQhkMh3JxgwX1bO+b66qMmvs9otdz/KvpSpmAm6tVSrRHCgocCUDIwWdQaelqMOkSE4Z9/KuF1e2KM2tGHNPrxlIeysGCNS6nCQsPemyIsLV11QNJn/6tK7uh6Zcwjimb0RrZQF0R2DFh8WHntq7nQ9Deb5SWHilm2g=";
-
-
-        getDataDecrypt(resData, resKey, Constant.PUBLIC_KEY);
-    }
 }

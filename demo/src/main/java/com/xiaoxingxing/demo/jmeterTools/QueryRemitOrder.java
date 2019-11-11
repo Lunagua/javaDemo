@@ -84,19 +84,4 @@ public class QueryRemitOrder {
         System.out.println(dataDecrypt);
         return dataDecrypt;
     }
-
-
-    public static void main(String[] args) {
-        String data = queryRemitOrder("1565331087676");
-        System.out.println(data);
-        String key = getKeyEncrypt(Constant.PRIVATE_KEY);
-        System.out.println(key);
-
-
-        String resData = "rPre56jm0t7UKKAL8ZmcSKFw9rt1PSL9NdHnXbIR4BobhHGZQl9afJ7r8KMXzacl+JAwZVjBibBCdsJpWtak1OIrjycNORtRiqxaxaMvnPwrX/EznU6J1DFmK2gxihKd";
-        String resKey = "YB08FEeBelOoQDvnK5ImnlQebGl+NMeMWDZQ9rd9FWsaTKG2mBIOFBXu3dB/BBrk3by9G7KsJ6cBjPZlphPjgx5ut5vsxhmxwSFQfXyD9kG1UwOtZeytrJMqiDcZrX8F8pPKFEIRvtUL4hebAUhdPDp/bbFJxG8iOyRzlB4Ykig=";
-
-
-        getDataDecrypt(resData, resKey, Constant.PUBLIC_KEY);
-    }
 }
