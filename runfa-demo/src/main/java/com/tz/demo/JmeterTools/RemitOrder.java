@@ -29,11 +29,11 @@ public class RemitOrder {
 
     public static JSONObject createRemitOrder(String amount, String merchantNo) {
         String merchantOrderNo = BaseData.getUUID();
-        String model = "ebank";
+        String bankcardAccountNo = "123456789123456789";
         String notifyUrl = "http://apitest.caimengpay.com/api/payOrder/testSuccessCallback";
+        String bankcardAccountName = "袁达";
         String bankCode = "ICBC";
-        String memberNo = BaseData.getAmount();
-        return RemitOrder.createRemitOrder(merchantOrderNo, model, amount, memberNo, bankCode, notifyUrl, merchantNo);
+        return RemitOrder.createRemitOrder(merchantOrderNo, bankCode, amount, bankcardAccountNo, bankcardAccountName, notifyUrl, merchantNo);
     }
 
     public static JSONObject createRemitOrder(String merchantNo) {

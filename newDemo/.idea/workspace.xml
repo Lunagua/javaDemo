@@ -10,12 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7343d970-440d-4c1e-b908-6a0f7c664ca3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/PayOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/QueryBalance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/RemitOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../runfa-demo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/util/HttpClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/BaseData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/BaseData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/CreatePayOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/PayOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/PayOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/RemitOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/RemitOrder.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,6 +29,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/caiMeng/HttpClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="850">
+              <caret line="157" column="44" selection-start-line="157" selection-start-column="44" selection-end-line="157" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -39,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/caiMeng/BaseData.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
@@ -462,7 +470,7 @@
       <workItem from="1573219517510" duration="145000" />
       <workItem from="1573221078183" duration="464000" />
       <workItem from="1573434794562" duration="1036000" />
-      <workItem from="1573437387083" duration="1966000" />
+      <workItem from="1573437387083" duration="2566000" />
     </task>
     <task id="LOCAL-00001" summary="增加云闪付动态码">
       <created>1573111398346</created>
@@ -482,7 +490,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="200672000" />
+    <option name="totallyTimeSpent" value="201272000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -740,13 +748,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/caiMeng/HttpClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3404">
-          <caret line="157" column="44" selection-start-line="157" selection-start-column="44" selection-end-line="157" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hengXinPay/creatDaifu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -907,6 +908,13 @@
             <element signature="e#352#353#0" expanded="true" />
             <element signature="e#382#383#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/caiMeng/HttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="157" column="44" selection-start-line="157" selection-start-column="44" selection-end-line="157" selection-end-column="44" />
         </state>
       </provider>
     </entry>
