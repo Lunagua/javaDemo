@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>查询代付订单</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<form id="form">
+    商户订单号：<input type="text" name="merchantOrderNo" value=""><br>
+    时间：<input type="text" name="submitDate" value="">(yyyyMMddHHmmss)<br>
+</form>
+<input type="button" value="查询" onclick="create();"/>
+<br><br><br>
+
+加密前数据：<span id="paramsData"></span><br>
+加密后数据：<span id="params"></span><br>
+返回密文：<span id="result"></span><br>
+返回明文：<span id="resultData"></span><br>
+
+<script>
+    function create() {
+        var params = getFormJson("#form");
+        $.post("/queryRemitOrder", params, function(data) {
+            if (data["paramsData"] != null) {
+                $("#paramsData").html(data["paramsData"]);
+            }
+            if (data["params"] != null) {
+                $("#params").html(data["params"]);
+            }
+            if (data["result"] != null) {
+                $("#result").html(data["result"]);
+            }
+            if (data["resultData"] != null) {
+                $("#resultData").html(data["resultData"]);
+            }
+        }, "json");
+    }
+
+    function getFormJson(form) {
+        var o = {};
+        var a = $(form).serializeArray();
+        $.each(a, function () {
+            if (o[this.name] !== undefined) {
+                if (!o[this.name].push) {
+                    o[this.name] = [o[this.name]];
+                }
+                o[this.name].push(this.value || '');
+            } else {
+                o[this.name] = this.value || '';
+            }
+        });
+        return o;
+    }
+</script>
+</body>
+</html>
