@@ -18,6 +18,7 @@ public class AESUtils {
 
     /**
      * 生成key
+     *
      * @return 生成结果
      */
     public static String generateKey() {
@@ -26,8 +27,9 @@ public class AESUtils {
 
     /**
      * 加密
+     *
      * @param content 加密内容
-     * @param keyStr 秘钥字符串
+     * @param keyStr  秘钥字符串
      * @return 加密结果
      */
     public static String encrypt(String content, String keyStr) throws Exception {
@@ -37,8 +39,9 @@ public class AESUtils {
 
     /**
      * 加密
+     *
      * @param content 加密内容
-     * @param key 秘钥
+     * @param key     秘钥
      * @return 加密结果
      */
     public static String encrypt(String content, Key key) throws Exception {
@@ -51,8 +54,9 @@ public class AESUtils {
 
     /**
      * 解密
+     *
      * @param content 解密内容
-     * @param keyStr 秘钥字符串
+     * @param keyStr  秘钥字符串
      * @return 解密结果
      */
     public static String decrypt(String content, String keyStr) throws Exception {
@@ -62,8 +66,9 @@ public class AESUtils {
 
     /**
      * 解密
+     *
      * @param content 解密内容
-     * @param key 秘钥
+     * @param key     秘钥
      * @return 解密结果
      */
     public static String decrypt(String content, Key key) throws Exception {

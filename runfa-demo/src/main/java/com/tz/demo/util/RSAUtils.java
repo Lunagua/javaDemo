@@ -35,7 +35,8 @@ public class RSAUtils {
 
     /**
      * 通过私钥加密
-     * @param content 加密内容
+     *
+     * @param content    加密内容
      * @param privateKey 私钥
      * @return 加密结果
      */
@@ -46,7 +47,8 @@ public class RSAUtils {
 
     /**
      * 通过公钥解密
-     * @param content 解密内容
+     *
+     * @param content   解密内容
      * @param publicKey 公钥
      * @return 解密结果
      */
@@ -57,6 +59,7 @@ public class RSAUtils {
 
     /**
      * RSA公钥转换
+     *
      * @param publicKeyStr 公钥字符串
      * @return 公钥
      * @throws InvalidKeySpecException
@@ -65,7 +68,7 @@ public class RSAUtils {
         PublicKey publicKey = null;
         try {
             KeyFactory keyFactory = KeyFactory.getInstance(ALGORITHM);
-            byte[] encodedKey =  Base64Utils.decodeFromString(publicKeyStr);
+            byte[] encodedKey = Base64Utils.decodeFromString(publicKeyStr);
             publicKey = keyFactory.generatePublic(new X509EncodedKeySpec(encodedKey));
         } catch (NoSuchAlgorithmException e) {
         }
@@ -84,7 +87,7 @@ public class RSAUtils {
         try {
             KeyFactory keyFactory = KeyFactory.getInstance(ALGORITHM);
 
-            byte[] encodedKey =  Base64Utils.decodeFromString(privateKeyStr);
+            byte[] encodedKey = Base64Utils.decodeFromString(privateKeyStr);
             privateKey = keyFactory.generatePrivate(new PKCS8EncodedKeySpec(encodedKey));
         } catch (NoSuchAlgorithmException e) {
         }
@@ -93,8 +96,9 @@ public class RSAUtils {
 
     /**
      * RSA加密
+     *
      * @param content 加密内容
-     * @param key 秘钥
+     * @param key     秘钥
      * @return 加密结果
      */
     public static byte[] encrypt(byte[] content, Key key) throws NoSuchAlgorithmException, IllegalBlockSizeException, IOException, InvalidKeyException, BadPaddingException {
@@ -120,8 +124,9 @@ public class RSAUtils {
 
     /**
      * RSA解密
+     *
      * @param content 解密内容
-     * @param key 秘钥
+     * @param key     秘钥
      * @return 解密结果
      */
     public static byte[] decrypt(byte[] content, Key key) throws NoSuchAlgorithmException, IllegalBlockSizeException, IOException, InvalidKeyException, BadPaddingException {
@@ -129,7 +134,7 @@ public class RSAUtils {
             // 初始化参数
             Cipher cipher = Cipher.getInstance(ALGORITHM);
             cipher.init(Cipher.DECRYPT_MODE, key);
-            content =  Base64Utils.decode(content);
+            content = Base64Utils.decode(content);
             // 对数据进行分断加密
             int length = content.length;
             try (ByteArrayOutputStream out = new ByteArrayOutputStream()) {

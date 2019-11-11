@@ -11,7 +11,8 @@ public class DateUtils {
 
     /**
      * 时间格式化
-     * @param date 时间
+     *
+     * @param date    时间
      * @param pattern 格式化
      * @return 时间字符串
      */
@@ -22,7 +23,8 @@ public class DateUtils {
 
     /**
      * 时间格式化
-     * @param date 时间
+     *
+     * @param date    时间
      * @param pattern 格式化
      * @return 时间字符串
      */

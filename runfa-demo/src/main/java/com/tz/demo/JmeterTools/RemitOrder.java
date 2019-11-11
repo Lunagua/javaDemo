@@ -10,7 +10,6 @@ import java.util.Map;
 
 public class RemitOrder {
     public static JSONObject createRemitOrder(String merchantOrderNo, String bankCode, String amount, String bankcardAccountNo, String bankcardAccountName, String notifyUrl, String merchantNo) {
-        JSONObject jsonObject = new JSONObject();
         Map<String, String> params = new HashMap<>();
         try {
             params.put("merchantOrderNo", merchantOrderNo);
@@ -27,7 +26,7 @@ public class RemitOrder {
         return JSONObject.parseObject(JSON.toJSONString(params));
     }
 
-    public static JSONObject createRemitOrder(String amount, String merchantNo) {
+    public static JSONObject createRemitOrder(String merchantNo, String amount) {
         String merchantOrderNo = BaseData.getUUID();
         String bankcardAccountNo = "123456789123456789";
         String notifyUrl = "http://apitest.caimengpay.com/api/payOrder/testSuccessCallback";

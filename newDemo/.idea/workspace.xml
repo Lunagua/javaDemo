@@ -9,7 +9,14 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/caiMeng/createZhuanka.java" line="10" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7343d970-440d-4c1e-b908-6a0f7c664ca3" name="Default Changelist" comment="" />
+    <list default="true" id="7343d970-440d-4c1e-b908-6a0f7c664ca3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/BaseData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/BaseData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/RemitOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/RemitOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/controller/DemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/controller/DemoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/BaseData.class" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/BaseData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/RemitOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/RemitOrder.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -148,9 +155,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1927" />
+    <option name="y" value="112" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -496,7 +503,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Web" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994401" visible="true" weight="0.271855" />

@@ -26,7 +26,7 @@ public class PayOrder {
         return JSONObject.parseObject(JSON.toJSONString(params));
     }
 
-    public static JSONObject createPayOrder(String amount, String merchantNo) {
+    public static JSONObject createPayOrder(String merchantNo, String amount) {
         String merchantOrderNo = BaseData.getUUID();
         String model = "ebank";
         String notifyUrl = "http://apitest.caimengpay.com/api/payOrder/testSuccessCallback";
@@ -39,6 +39,7 @@ public class PayOrder {
         String amount = BaseData.getAmount();
         return PayOrder.createPayOrder(amount, merchantNo);
     }
+
     public static JSONObject queryPayOrder(String merchantOrderNo, String merchantNo) {
         Map<String, String> params = new HashMap<>();
         try {
@@ -51,8 +52,9 @@ public class PayOrder {
         }
         return JSONObject.parseObject(JSON.toJSONString(params));
     }
+
     public static void main(String[] args) {
         PayOrder.createPayOrder("21910072");
-        PayOrder.queryPayOrder("1111","2222");
+        PayOrder.queryPayOrder("1111", "2222");
     }
 }

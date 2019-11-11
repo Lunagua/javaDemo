@@ -3,7 +3,6 @@ package com.tz.demo.service;
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
 import com.tz.demo.constant.Constant;
-import com.tz.demo.util.AESUtils;
 import com.tz.demo.util.DateUtils;
 import com.tz.demo.util.HttpUtils;
 import com.tz.demo.util.RSAUtils;
@@ -31,8 +30,8 @@ public class DemoService {
             params.put("amount", amount);
             params.put("payType", model);
             params.put("bankCode", "ICBC");
-            params.put("memberNo",memberNo);
-            params.put("notifyUrl",notifyUrl);
+            params.put("memberNo", memberNo);
+            params.put("notifyUrl", notifyUrl);
             jsonObject.put("paramsData", JSON.toJSONString(params));
             params = convert(params);
             jsonObject.put("params", JSON.toJSONString(params));
@@ -154,9 +153,9 @@ public class DemoService {
     }
 
 
-
     /**
      * 参数转换
+     *
      * @param data 参数
      * @return 转换结果
      */
@@ -173,6 +172,7 @@ public class DemoService {
 
     /**
      * 参数还原
+     *
      * @param data 参数
      * @return 还原结果
      */
