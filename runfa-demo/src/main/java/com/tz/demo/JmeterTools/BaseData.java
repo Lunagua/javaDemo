@@ -61,13 +61,13 @@ public class BaseData {
      * @param data 参数
      * @return 转换结果
      */
-    public static Map<String, String> convert(Map<String, String> data, String merchantNo) throws Exception {
+    public static Map<String, String> convert(Map<String, String> data, String merchantNo,String privateKey) throws Exception {
         Map<String, String> result = new TreeMap<>(data);
 
         result.put("merchantNo", merchantNo);
         result.put("version", "1.0.0");
         String signData = result.entrySet().stream().filter(e -> StringUtils.isNotEmpty(e.getValue())).map(e -> e.getKey().concat("=").concat(e.getValue())).collect(Collectors.joining("&"));
-        result.put("sign", RSAUtils.sign(signData, "UTF-8", Constant.PRIVATE_KEY, RSAUtils.MD5_WITH_RSA));
+        result.put("sign", RSAUtils.sign(signData, "UTF-8", privateKey, RSAUtils.MD5_WITH_RSA));
         return result;
     }
 
