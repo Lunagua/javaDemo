@@ -18,9 +18,10 @@ import java.util.Map;
 
 public class CreateUPOP {
     public static String aesKey = AESUtils.generateKey();
+    public static Map<String, String> params = new HashMap<>();
 
     public static String getDataEncrypt(String amount, String memberNo) {
-        Map<String, String> params = new HashMap<>();
+        params.clear();
         params.put("merchantOrderNo", String.valueOf(System.currentTimeMillis()));
         params.put("amount", amount);
         params.put("model", "UPOP");
@@ -79,7 +80,6 @@ public class CreateUPOP {
         return keyEncrypt;
     }
 
-
     private static String getKeyDecrypt(String content, String publicKey) {
         String keyDecrypt = null;
         try {
@@ -110,5 +110,9 @@ public class CreateUPOP {
         }
         System.out.println(dataDecrypt);
         return dataDecrypt;
+    }
+
+    public static String getAmount(){
+        return params.get("amount");
     }
 }

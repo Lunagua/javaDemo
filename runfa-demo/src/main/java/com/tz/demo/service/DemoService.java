@@ -187,6 +187,7 @@ public class DemoService {
         return data;
     }
 
+
     public static void main(String[] args) {
         DemoService demoService = new DemoService();
         JSONObject data = JSONObject.parseObject("{\"data\":\"Fw92LwsSH+ElfRRRTbTRls15P0SKDp171gBrRBqCsttNv0jU1kpLg/G+ggc3BAWcw2QcTzpLvvi2JCoB1zOUNA==\",\"merchantId\":\"10001\",\"merchantOrderNo\":\"20191012144900\",\"key\":\"RxBUGV6V5EJ+utD/w9g8wcZ46UvQSIt+I1BApF8/ozWrEUXvBvbqnDsBYy7rohlZ/QAkr3FtTZoHGterDWXm76ZcakpIbUe8Q3YnSTGAV3OfSbrjq6NVBcNli1ECjS46OBqQsZncDzxTT78pxz8CHJpiaWFXUEojpxAhPL0FMTc=\"}");
@@ -196,6 +197,7 @@ public class DemoService {
         } catch (Exception e) {
             e.printStackTrace();
         }
+
     }
 
 }

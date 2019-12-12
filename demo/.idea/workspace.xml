@@ -2,23 +2,50 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="demo:jar" />
+      <artifact name="tuozhong" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5a0524b-5e22-407a-a9a5-8c8f303ad650" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newDemo/src/main/java/hengXinPay/createFastPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/service/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/runfa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/tuozhong.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateAlipayQRCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateAlipayQRCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateAlipayWap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateAlipayWap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateRemit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateRemit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/demo_jar/demo.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateUPOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateUPOP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateWechatQRCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateWechatQRCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateWechatWap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateWechatWap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/QueryAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/QueryAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/QueryRemitOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/QueryRemitOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/QueryUPOPOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/QueryUPOPOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/util/RSAUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/util/RSAUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/HttpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/HttpClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateAlipayQRCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateAlipayQRCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateAlipayWap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateAlipayWap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateRemit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateRemit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateUPOP.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateUPOP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateWechatQRCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateWechatQRCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateWechatWap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateWechatWap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoxingxing/demo/jmeterTools/QueryAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaoxingxing/demo/jmeterTools/QueryAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoxingxing/demo/jmeterTools/QueryRemitOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaoxingxing/demo/jmeterTools/QueryRemitOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoxingxing/demo/jmeterTools/QueryUPOPOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaoxingxing/demo/jmeterTools/QueryUPOPOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoxingxing/demo/jmeterTools/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoxingxing/demo/util/RSAUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiaoxingxing/demo/util/RSAUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/.idea/artifacts/oldDemo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/classes/artifacts/oldDemo/oldDemo.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/src/main/java/caiMeng/HttpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/src/main/java/caiMeng/HttpClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/src/main/java/caiMeng/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/src/main/java/caiMeng/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/src/main/java/hengXinPay/creatDaifu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/src/main/java/hengXinPay/creatDaifu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/target/classes/caiMeng/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/target/classes/caiMeng/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/target/classes/hengXinPay/creatDaifu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/target/classes/hengXinPay/creatDaifu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/classes/artifacts/runfa/runfa.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/classes/artifacts/runfa/runfa.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/BaseData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/BaseData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/service/DemoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/service/DemoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/util/RSAUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/util/RSAUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/BaseData.class" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/BaseData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/PayOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/PayOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/QueryBalance.class" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/QueryBalance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/RemitOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/RemitOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/service/DemoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/service/DemoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/util/RSAUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/util/RSAUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xiaoxx/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xiaoxx/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -51,30 +78,36 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateAlipayQRCode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="688">
-              <caret line="112" column="5" selection-start-line="112" selection-start-column="5" selection-end-line="112" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateAlipayWap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="688">
-              <caret line="112" column="5" selection-start-line="112" selection-start-column="5" selection-end-line="112" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/QueryRemitOrder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="688">
-              <caret line="85" column="5" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
+            <state relative-caret-position="184">
+              <caret line="21" column="72" selection-start-line="21" selection-start-column="72" selection-end-line="21" selection-end-column="72" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="method#getDataEncrypt#0;class#CreateAlipayWap#0" />
+                <element signature="e#1151#1281#0" />
+                <element signature="e#1302#1346#0" />
+                <element signature="method#getDataEncrypt#1;class#CreateAlipayWap#0" />
+                <element signature="method#getDataEncrypt#2;class#CreateAlipayWap#0" />
+                <element signature="method#getDataEncrypt#3;class#CreateAlipayWap#0" />
+                <element signature="method#getKeyEncrypt#0;class#CreateAlipayWap#0" />
+                <element signature="e#2285#2371#0" />
+                <element signature="e#2406#2450#0" />
+                <element signature="e#2473#2517#0" />
+                <element signature="e#2548#2592#0" />
+                <element signature="e#2623#2667#0" />
+                <element signature="e#2703#2747#0" />
+                <element signature="e#2784#2828#0" />
+                <element signature="method#getKeyDecrypt#0;class#CreateAlipayWap#0" />
+                <element signature="e#2986#3071#0" />
+                <element signature="e#3106#3150#0" />
+                <element signature="e#3173#3217#0" />
+                <element signature="e#3248#3292#0" />
+                <element signature="e#3323#3367#0" />
+                <element signature="e#3403#3447#0" />
+                <element signature="e#3484#3528#0" />
+                <element signature="method#getDataDecrypt#0;class#CreateAlipayWap#0" />
+                <element signature="e#3712#3820#0" />
+                <element signature="e#3841#3885#0" />
               </folding>
             </state>
           </provider>
@@ -83,8 +116,118 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/QueryUPOPOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="688">
-              <caret line="85" column="5" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
+            <state relative-caret-position="253">
+              <caret line="56" column="74" selection-start-line="56" selection-start-column="74" selection-end-line="56" selection-end-column="74" />
+              <folding>
+                <element signature="method#queryUPOPOrder#0;class#QueryUPOPOrder#0" />
+                <element signature="e#1083#1213#0" />
+                <element signature="e#1234#1278#0" />
+                <element signature="method#getKeyEncrypt#0;class#QueryUPOPOrder#0" />
+                <element signature="e#1420#1506#0" />
+                <element signature="e#1541#1585#0" />
+                <element signature="e#1608#1652#0" />
+                <element signature="e#1683#1727#0" />
+                <element signature="e#1758#1802#0" />
+                <element signature="e#1838#1882#0" />
+                <element signature="e#1919#1963#0" />
+                <element signature="method#getKeyDecrypt#0;class#QueryUPOPOrder#0" />
+                <element signature="e#2120#2205#0" />
+                <element signature="e#2240#2284#0" />
+                <element signature="e#2307#2351#0" />
+                <element signature="e#2382#2426#0" />
+                <element signature="e#2457#2501#0" />
+                <element signature="e#2537#2581#0" />
+                <element signature="e#2618#2662#0" />
+                <element signature="method#getDataDecrypt#0;class#QueryUPOPOrder#0" />
+                <element signature="e#2845#2953#0" />
+                <element signature="e#2974#3018#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="13" column="72" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="72" />
+              <folding>
+                <element signature="method#convert#0;class#BaseTest#0" />
+                <element signature="method#revert#0;class#BaseTest#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/constant/Constant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+              <folding>
+                <element signature="docComment;class#Constant#0" />
+                <element signature="docComment;field#MERCHANT_ID#0;class#Constant#0" />
+                <element signature="docComment;field#PUBLIC_KEY#0;class#Constant#0" />
+                <element signature="docComment;field#PRIVATE_KEY#0;class#Constant#0" />
+                <element signature="docComment;field#UPOP_CREATE_URL#0;class#Constant#0" />
+                <element signature="docComment;field#UPOP_QUERY_URL#0;class#Constant#0" />
+                <element signature="docComment;field#REMIT_CREATE_URL#0;class#Constant#0" />
+                <element signature="docComment;field#REMIT_QUERY_URL#0;class#Constant#0" />
+                <element signature="docComment;field#BALANCE_QUERY_URL#0;class#Constant#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/RemitTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+              <folding>
+                <element signature="docComment;class#RemitTest#0" />
+                <element signature="docComment;method#create#0;class#RemitTest#0" />
+                <element signature="method#create#0;class#RemitTest#0" />
+                <element signature="e#710#1568#0" />
+                <element signature="e#1449#1558#1" />
+                <element signature="e#1589#1633#0" />
+                <element signature="docComment;method#query#0;class#RemitTest#0" />
+                <element signature="method#query#0;class#RemitTest#0" />
+                <element signature="e#1717#2298#0" />
+                <element signature="e#2179#2288#1" />
+                <element signature="e#2319#2363#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/UPOPTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+              <folding>
+                <element signature="docComment;class#UPOPTest#0" />
+                <element signature="docComment;method#create#0;class#UPOPTest#0" />
+                <element signature="method#create#0;class#UPOPTest#0" />
+                <element signature="e#409#1151#0" />
+                <element signature="e#1032#1141#1" />
+                <element signature="e#1172#1216#0" />
+                <element signature="docComment;method#query#0;class#UPOPTest#0" />
+                <element signature="method#query#0;class#UPOPTest#0" />
+                <element signature="e#1300#1840#0" />
+                <element signature="e#1721#1830#1" />
+                <element signature="e#1861#1905#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/AccountTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,67 +238,108 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/QueryAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="688">
-              <caret line="83" column="5" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
+            <state relative-caret-position="253">
+              <caret line="54" column="74" selection-start-line="54" selection-start-column="74" selection-end-line="54" selection-end-column="74" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/util/AESUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-899">
-              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/util/RSAUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="method#queryBalance#0;class#QueryAccount#0" />
+                <element signature="e#902#1032#0" />
+                <element signature="e#1053#1097#0" />
+                <element signature="method#getKeyEncrypt#0;class#QueryAccount#0" />
+                <element signature="e#1239#1325#0" />
+                <element signature="e#1360#1404#0" />
+                <element signature="e#1427#1471#0" />
+                <element signature="e#1502#1546#0" />
+                <element signature="e#1577#1621#0" />
+                <element signature="e#1657#1701#0" />
+                <element signature="e#1738#1782#0" />
+                <element signature="method#getKeyDecrypt#0;class#QueryAccount#0" />
+                <element signature="e#1939#2024#0" />
+                <element signature="e#2059#2103#0" />
+                <element signature="e#2126#2170#0" />
+                <element signature="e#2201#2245#0" />
+                <element signature="e#2276#2320#0" />
+                <element signature="e#2356#2400#0" />
+                <element signature="e#2437#2481#0" />
+                <element signature="method#getDataDecrypt#0;class#QueryAccount#0" />
+                <element signature="e#2664#2772#0" />
+                <element signature="e#2793#2837#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/AccountTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/HttpClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+            <state relative-caret-position="345">
+              <caret line="155" column="16" lean-forward="true" selection-start-line="155" selection-start-column="16" selection-end-line="155" selection-end-column="16" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="method#doGet#0;class#HttpClient#0" />
+                <element signature="e#395#1468#0" />
+                <element signature="e#973#1458#1" />
+                <element signature="e#1306#1403#1" />
+                <element signature="e#1501#1545#0" />
+                <element signature="e#1568#1612#0" />
+                <element signature="e#1621#2098#0" />
+                <element signature="e#1671#1841#1" />
+                <element signature="e#1693#1744#0" />
+                <element signature="e#1767#1827#0" />
+                <element signature="e#1871#2041#1" />
+                <element signature="e#1893#1944#0" />
+                <element signature="e#1967#2027#0" />
+                <element signature="method#doPost#0;class#HttpClient#0" />
+                <element signature="e#2379#4076#0" />
+                <element signature="e#3554#4066#1" />
+                <element signature="e#3914#4011#1" />
+                <element signature="e#4109#4153#0" />
+                <element signature="e#4176#4220#0" />
+                <element signature="e#4229#4923#0" />
+                <element signature="e#4279#4449#1" />
+                <element signature="e#4301#4352#0" />
+                <element signature="e#4375#4435#0" />
+                <element signature="e#4478#4648#1" />
+                <element signature="e#4500#4551#0" />
+                <element signature="e#4574#4634#0" />
+                <element signature="e#4677#4847#1" />
+                <element signature="e#4699#4750#0" />
+                <element signature="e#4773#4833#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/HttpClient.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateUPOP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="124" column="40" selection-start-line="124" selection-start-column="40" selection-end-line="124" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateRemit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="100" column="5" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
+            <state relative-caret-position="30">
+              <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="method#getDataEncrypt#0;class#CreateUPOP#0" />
+                <element signature="e#1140#1270#0" />
+                <element signature="e#1291#1335#0" />
+                <element signature="method#getDataEncrypt#1;class#CreateUPOP#0" />
+                <element signature="method#getDataEncrypt#2;class#CreateUPOP#0" />
+                <element signature="method#getDataEncrypt#3;class#CreateUPOP#0" />
+                <element signature="method#getKeyEncrypt#0;class#CreateUPOP#0" />
+                <element signature="e#2274#2360#0" />
+                <element signature="e#2395#2439#0" />
+                <element signature="e#2462#2506#0" />
+                <element signature="e#2537#2581#0" />
+                <element signature="e#2612#2656#0" />
+                <element signature="e#2692#2736#0" />
+                <element signature="e#2773#2817#0" />
+                <element signature="method#getKeyDecrypt#0;class#CreateUPOP#0" />
+                <element signature="e#2974#3059#0" />
+                <element signature="e#3094#3138#0" />
+                <element signature="e#3161#3205#0" />
+                <element signature="e#3236#3280#0" />
+                <element signature="e#3311#3355#0" />
+                <element signature="e#3391#3435#0" />
+                <element signature="e#3472#3516#0" />
+                <element signature="method#getDataDecrypt#0;class#CreateUPOP#0" />
+                <element signature="e#3700#3808#0" />
+                <element signature="e#3829#3873#0" />
+                <element signature="n#!!block;n#getAmount#0;n#CreateUPOP#0" />
               </folding>
             </state>
           </provider>
@@ -191,7 +375,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/QueryRemitOrder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/QueryUPOPOrder.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/HttpClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/constant/Constant.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/util/AESUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/util/DateUtils.java" />
@@ -201,7 +384,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/UPOPTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateWechatQRCode.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateWechatWap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateUPOP.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateRemit.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateAlipayWap.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateAlipayQRCode.java" />
@@ -209,6 +391,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/QueryRemitOrder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/QueryUPOPOrder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/util/RSAUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateUPOP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/HttpClient.java" />
       </list>
     </option>
   </component>
@@ -224,7 +408,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -237,8 +421,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -249,6 +431,24 @@
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="tuozhong" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -271,6 +471,24 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="constant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="jmeterTools" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
@@ -291,13 +509,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../newDemo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/META-INF/MANIFEST.MF" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -326,9 +546,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.UPOPTest.query">
-    <configuration name="CreateRemit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaoxingxing.demo.jmeterTools.CreateRemit" />
+  <component name="RunManager" selected="Application.HttpClient">
+    <configuration name="CreateUPOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaoxingxing.demo.jmeterTools.CreateUPOP" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -340,8 +560,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateUPOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaoxingxing.demo.jmeterTools.CreateUPOP" />
+    <configuration name="HttpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaoxingxing.demo.jmeterTools.HttpClient" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -400,11 +620,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HttpClient" />
         <item itemvalue="JUnit.UPOPTest.query" />
         <item itemvalue="JUnit.UPOPTest.create" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.CreateUPOP" />
-        <item itemvalue="Application.CreateRemit" />
       </list>
     </recent_temporary>
   </component>
@@ -453,6 +673,10 @@
       <workItem from="1573221152885" duration="16000" />
       <workItem from="1573437374816" duration="11000" />
       <workItem from="1573464290554" duration="3807000" />
+      <workItem from="1573800352140" duration="633000" />
+      <workItem from="1573814699917" duration="101000" />
+      <workItem from="1575458279505" duration="1776000" />
+      <workItem from="1575616315262" duration="6609000" />
     </task>
     <task id="LOCAL-00001" summary="新增支付方式：支付宝二维码、支付宝wap、微信二维码、微信wap">
       <created>1573114238924</created>
@@ -504,7 +728,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88594000" />
+    <option name="totallyTimeSpent" value="97713000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -516,10 +740,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910554" visible="true" weight="0.22867803" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910554" visible="true" weight="0.23933902" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -534,11 +758,11 @@
       <window_info anchor="bottom" id="Duplicates" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" sideWeight="0.49946696" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.329718" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.25893825" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.25813448" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49946696" weight="0.25813448" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49946696" visible="true" weight="0.329718" />
-      <window_info anchor="bottom" x="22" y="375" width="1876" height="290" id="Run" order="13" sideWeight="0.50053304" side_tool="true" weight="0.2654388" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.4989339" weight="0.3286334" />
+      <window_info anchor="bottom" x="22" y="375" width="1876" height="290" id="Run" order="13" sideWeight="0.50053304" side_tool="true" weight="0.2646421" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -575,6 +799,20 @@
                 </list>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
@@ -672,145 +910,10 @@
     <entry file="file://$PROJECT_DIR$/src/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/constant/Constant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/RemitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="35" column="99" selection-start-line="35" selection-start-column="99" selection-end-line="35" selection-end-column="99" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/UPOPTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="33" column="36" lean-forward="true" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateWechatQRCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
-          <caret line="112" column="5" selection-start-line="112" selection-start-column="5" selection-end-line="112" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateWechatWap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
-          <caret line="112" column="5" selection-start-line="112" selection-start-column="5" selection-end-line="112" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateUPOP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
-          <caret line="112" column="5" selection-start-line="112" selection-start-column="5" selection-end-line="112" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#getDataEncrypt#2;class#CreateUPOP#0" />
-            <element signature="method#getDataEncrypt#3;class#CreateUPOP#0" />
-            <element signature="method#getKeyEncrypt#0;class#CreateUPOP#0" />
-            <element signature="method#getKeyDecrypt#0;class#CreateUPOP#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateRemit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="100" column="5" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateAlipayWap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
-          <caret line="112" column="5" selection-start-line="112" selection-start-column="5" selection-end-line="112" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateAlipayQRCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
-          <caret line="112" column="5" selection-start-line="112" selection-start-column="5" selection-end-line="112" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/HttpClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="124" column="40" selection-start-line="124" selection-start-column="40" selection-end-line="124" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/QueryRemitOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
-          <caret line="85" column="5" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/QueryUPOPOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
-          <caret line="85" column="5" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/QueryAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
-          <caret line="83" column="5" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/test.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/util/AESUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-899">
+        <state relative-caret-position="575">
           <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -820,7 +923,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/util/RSAUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
+        <state relative-caret-position="989">
           <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -828,12 +931,416 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateRemit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="71" column="74" selection-start-line="71" selection-start-column="74" selection-end-line="71" selection-end-column="74" />
+          <folding>
+            <element signature="method#getDataEncrypt#0;class#CreateRemit#0" />
+            <element signature="e#1262#1392#0" />
+            <element signature="e#1413#1457#0" />
+            <element signature="method#getDataEncrypt#1;class#CreateRemit#0" />
+            <element signature="method#getDataEncrypt#2;class#CreateRemit#0" />
+            <element signature="method#getKeyEncrypt#0;class#CreateRemit#0" />
+            <element signature="e#2025#2111#0" />
+            <element signature="e#2146#2190#0" />
+            <element signature="e#2213#2257#0" />
+            <element signature="e#2288#2332#0" />
+            <element signature="e#2363#2407#0" />
+            <element signature="e#2443#2487#0" />
+            <element signature="e#2524#2568#0" />
+            <element signature="method#getKeyDecrypt#0;class#CreateRemit#0" />
+            <element signature="e#2725#2810#0" />
+            <element signature="e#2845#2889#0" />
+            <element signature="e#2912#2956#0" />
+            <element signature="e#2987#3031#0" />
+            <element signature="e#3062#3106#0" />
+            <element signature="e#3142#3186#0" />
+            <element signature="e#3223#3267#0" />
+            <element signature="method#getDataDecrypt#0;class#CreateRemit#0" />
+            <element signature="e#3450#3558#0" />
+            <element signature="e#3579#3623#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateAlipayQRCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="82" column="74" selection-start-line="82" selection-start-column="74" selection-end-line="82" selection-end-column="74" />
+          <folding>
+            <element signature="method#getDataEncrypt#0;class#CreateAlipayQRCode#0" />
+            <element signature="e#1158#1288#0" />
+            <element signature="e#1309#1353#0" />
+            <element signature="method#getDataEncrypt#1;class#CreateAlipayQRCode#0" />
+            <element signature="method#getDataEncrypt#2;class#CreateAlipayQRCode#0" />
+            <element signature="method#getDataEncrypt#3;class#CreateAlipayQRCode#0" />
+            <element signature="method#getKeyEncrypt#0;class#CreateAlipayQRCode#0" />
+            <element signature="e#2292#2378#0" />
+            <element signature="e#2413#2457#0" />
+            <element signature="e#2480#2524#0" />
+            <element signature="e#2555#2599#0" />
+            <element signature="e#2630#2674#0" />
+            <element signature="e#2710#2754#0" />
+            <element signature="e#2791#2835#0" />
+            <element signature="method#getKeyDecrypt#0;class#CreateAlipayQRCode#0" />
+            <element signature="e#2993#3078#0" />
+            <element signature="e#3113#3157#0" />
+            <element signature="e#3180#3224#0" />
+            <element signature="e#3255#3299#0" />
+            <element signature="e#3330#3374#0" />
+            <element signature="e#3410#3454#0" />
+            <element signature="e#3491#3535#0" />
+            <element signature="method#getDataDecrypt#0;class#CreateAlipayQRCode#0" />
+            <element signature="e#3719#3827#0" />
+            <element signature="e#3848#3892#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateWechatQRCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="82" column="74" selection-start-line="82" selection-start-column="74" selection-end-line="82" selection-end-column="74" />
+          <folding>
+            <element signature="method#getDataEncrypt#0;class#CreateWechatQRCode#0" />
+            <element signature="e#1158#1288#0" />
+            <element signature="e#1309#1353#0" />
+            <element signature="method#getDataEncrypt#1;class#CreateWechatQRCode#0" />
+            <element signature="method#getDataEncrypt#2;class#CreateWechatQRCode#0" />
+            <element signature="method#getDataEncrypt#3;class#CreateWechatQRCode#0" />
+            <element signature="method#getKeyEncrypt#0;class#CreateWechatQRCode#0" />
+            <element signature="e#2292#2378#0" />
+            <element signature="e#2413#2457#0" />
+            <element signature="e#2480#2524#0" />
+            <element signature="e#2555#2599#0" />
+            <element signature="e#2630#2674#0" />
+            <element signature="e#2710#2754#0" />
+            <element signature="e#2791#2835#0" />
+            <element signature="method#getKeyDecrypt#0;class#CreateWechatQRCode#0" />
+            <element signature="e#2993#3078#0" />
+            <element signature="e#3113#3157#0" />
+            <element signature="e#3180#3224#0" />
+            <element signature="e#3255#3299#0" />
+            <element signature="e#3330#3374#0" />
+            <element signature="e#3410#3454#0" />
+            <element signature="e#3491#3535#0" />
+            <element signature="method#getDataDecrypt#0;class#CreateWechatQRCode#0" />
+            <element signature="e#3719#3827#0" />
+            <element signature="e#3848#3892#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateWechatWap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="82" column="74" selection-start-line="82" selection-start-column="74" selection-end-line="82" selection-end-column="74" />
+          <folding>
+            <element signature="method#getDataEncrypt#0;class#CreateWechatWap#0" />
+            <element signature="e#1151#1281#0" />
+            <element signature="e#1302#1346#0" />
+            <element signature="method#getDataEncrypt#1;class#CreateWechatWap#0" />
+            <element signature="method#getDataEncrypt#2;class#CreateWechatWap#0" />
+            <element signature="method#getDataEncrypt#3;class#CreateWechatWap#0" />
+            <element signature="method#getKeyEncrypt#0;class#CreateWechatWap#0" />
+            <element signature="e#2285#2371#0" />
+            <element signature="e#2406#2450#0" />
+            <element signature="e#2473#2517#0" />
+            <element signature="e#2548#2592#0" />
+            <element signature="e#2623#2667#0" />
+            <element signature="e#2703#2747#0" />
+            <element signature="e#2784#2828#0" />
+            <element signature="method#getKeyDecrypt#0;class#CreateWechatWap#0" />
+            <element signature="e#2986#3071#0" />
+            <element signature="e#3106#3150#0" />
+            <element signature="e#3173#3217#0" />
+            <element signature="e#3248#3292#0" />
+            <element signature="e#3323#3367#0" />
+            <element signature="e#3403#3447#0" />
+            <element signature="e#3484#3528#0" />
+            <element signature="method#getDataDecrypt#0;class#CreateWechatWap#0" />
+            <element signature="e#3712#3820#0" />
+            <element signature="e#3841#3885#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/QueryRemitOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="56" column="74" selection-start-line="56" selection-start-column="74" selection-end-line="56" selection-end-column="74" />
+          <folding>
+            <element signature="method#queryRemitOrder#0;class#QueryRemitOrder#0" />
+            <element signature="e#1085#1215#0" />
+            <element signature="e#1236#1280#0" />
+            <element signature="method#getKeyEncrypt#0;class#QueryRemitOrder#0" />
+            <element signature="e#1422#1508#0" />
+            <element signature="e#1543#1587#0" />
+            <element signature="e#1610#1654#0" />
+            <element signature="e#1685#1729#0" />
+            <element signature="e#1760#1804#0" />
+            <element signature="e#1840#1884#0" />
+            <element signature="e#1921#1965#0" />
+            <element signature="method#getKeyDecrypt#0;class#QueryRemitOrder#0" />
+            <element signature="e#2122#2207#0" />
+            <element signature="e#2242#2286#0" />
+            <element signature="e#2309#2353#0" />
+            <element signature="e#2384#2428#0" />
+            <element signature="e#2459#2503#0" />
+            <element signature="e#2539#2583#0" />
+            <element signature="e#2620#2664#0" />
+            <element signature="method#getDataDecrypt#0;class#QueryRemitOrder#0" />
+            <element signature="e#2847#2955#0" />
+            <element signature="e#2976#3020#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/QueryUPOPOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="56" column="74" selection-start-line="56" selection-start-column="74" selection-end-line="56" selection-end-column="74" />
+          <folding>
+            <element signature="method#queryUPOPOrder#0;class#QueryUPOPOrder#0" />
+            <element signature="e#1083#1213#0" />
+            <element signature="e#1234#1278#0" />
+            <element signature="method#getKeyEncrypt#0;class#QueryUPOPOrder#0" />
+            <element signature="e#1420#1506#0" />
+            <element signature="e#1541#1585#0" />
+            <element signature="e#1608#1652#0" />
+            <element signature="e#1683#1727#0" />
+            <element signature="e#1758#1802#0" />
+            <element signature="e#1838#1882#0" />
+            <element signature="e#1919#1963#0" />
+            <element signature="method#getKeyDecrypt#0;class#QueryUPOPOrder#0" />
+            <element signature="e#2120#2205#0" />
+            <element signature="e#2240#2284#0" />
+            <element signature="e#2307#2351#0" />
+            <element signature="e#2382#2426#0" />
+            <element signature="e#2457#2501#0" />
+            <element signature="e#2537#2581#0" />
+            <element signature="e#2618#2662#0" />
+            <element signature="method#getDataDecrypt#0;class#QueryUPOPOrder#0" />
+            <element signature="e#2845#2953#0" />
+            <element signature="e#2974#3018#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/UPOPTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+          <folding>
+            <element signature="docComment;class#UPOPTest#0" />
+            <element signature="docComment;method#create#0;class#UPOPTest#0" />
+            <element signature="method#create#0;class#UPOPTest#0" />
+            <element signature="e#409#1151#0" />
+            <element signature="e#1032#1141#1" />
+            <element signature="e#1172#1216#0" />
+            <element signature="docComment;method#query#0;class#UPOPTest#0" />
+            <element signature="method#query#0;class#UPOPTest#0" />
+            <element signature="e#1300#1840#0" />
+            <element signature="e#1721#1830#1" />
+            <element signature="e#1861#1905#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/RemitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+          <folding>
+            <element signature="docComment;class#RemitTest#0" />
+            <element signature="docComment;method#create#0;class#RemitTest#0" />
+            <element signature="method#create#0;class#RemitTest#0" />
+            <element signature="e#710#1568#0" />
+            <element signature="e#1449#1558#1" />
+            <element signature="e#1589#1633#0" />
+            <element signature="docComment;method#query#0;class#RemitTest#0" />
+            <element signature="method#query#0;class#RemitTest#0" />
+            <element signature="e#1717#2298#0" />
+            <element signature="e#2179#2288#1" />
+            <element signature="e#2319#2363#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/AccountTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
+        <state relative-caret-position="460">
           <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="13" column="72" selection-start-line="13" selection-start-column="72" selection-end-line="13" selection-end-column="72" />
+          <folding>
+            <element signature="method#convert#0;class#BaseTest#0" />
+            <element signature="method#revert#0;class#BaseTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/constant/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding>
+            <element signature="docComment;class#Constant#0" />
+            <element signature="docComment;field#MERCHANT_ID#0;class#Constant#0" />
+            <element signature="docComment;field#PUBLIC_KEY#0;class#Constant#0" />
+            <element signature="docComment;field#PRIVATE_KEY#0;class#Constant#0" />
+            <element signature="docComment;field#UPOP_CREATE_URL#0;class#Constant#0" />
+            <element signature="docComment;field#UPOP_QUERY_URL#0;class#Constant#0" />
+            <element signature="docComment;field#REMIT_CREATE_URL#0;class#Constant#0" />
+            <element signature="docComment;field#REMIT_QUERY_URL#0;class#Constant#0" />
+            <element signature="docComment;field#BALANCE_QUERY_URL#0;class#Constant#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateAlipayWap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="21" column="72" selection-start-line="21" selection-start-column="72" selection-end-line="21" selection-end-column="72" />
+          <folding>
+            <element signature="method#getDataEncrypt#0;class#CreateAlipayWap#0" />
+            <element signature="e#1151#1281#0" />
+            <element signature="e#1302#1346#0" />
+            <element signature="method#getDataEncrypt#1;class#CreateAlipayWap#0" />
+            <element signature="method#getDataEncrypt#2;class#CreateAlipayWap#0" />
+            <element signature="method#getDataEncrypt#3;class#CreateAlipayWap#0" />
+            <element signature="method#getKeyEncrypt#0;class#CreateAlipayWap#0" />
+            <element signature="e#2285#2371#0" />
+            <element signature="e#2406#2450#0" />
+            <element signature="e#2473#2517#0" />
+            <element signature="e#2548#2592#0" />
+            <element signature="e#2623#2667#0" />
+            <element signature="e#2703#2747#0" />
+            <element signature="e#2784#2828#0" />
+            <element signature="method#getKeyDecrypt#0;class#CreateAlipayWap#0" />
+            <element signature="e#2986#3071#0" />
+            <element signature="e#3106#3150#0" />
+            <element signature="e#3173#3217#0" />
+            <element signature="e#3248#3292#0" />
+            <element signature="e#3323#3367#0" />
+            <element signature="e#3403#3447#0" />
+            <element signature="e#3484#3528#0" />
+            <element signature="method#getDataDecrypt#0;class#CreateAlipayWap#0" />
+            <element signature="e#3712#3820#0" />
+            <element signature="e#3841#3885#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/QueryAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="54" column="74" selection-start-line="54" selection-start-column="74" selection-end-line="54" selection-end-column="74" />
+          <folding>
+            <element signature="method#queryBalance#0;class#QueryAccount#0" />
+            <element signature="e#902#1032#0" />
+            <element signature="e#1053#1097#0" />
+            <element signature="method#getKeyEncrypt#0;class#QueryAccount#0" />
+            <element signature="e#1239#1325#0" />
+            <element signature="e#1360#1404#0" />
+            <element signature="e#1427#1471#0" />
+            <element signature="e#1502#1546#0" />
+            <element signature="e#1577#1621#0" />
+            <element signature="e#1657#1701#0" />
+            <element signature="e#1738#1782#0" />
+            <element signature="method#getKeyDecrypt#0;class#QueryAccount#0" />
+            <element signature="e#1939#2024#0" />
+            <element signature="e#2059#2103#0" />
+            <element signature="e#2126#2170#0" />
+            <element signature="e#2201#2245#0" />
+            <element signature="e#2276#2320#0" />
+            <element signature="e#2356#2400#0" />
+            <element signature="e#2437#2481#0" />
+            <element signature="method#getDataDecrypt#0;class#QueryAccount#0" />
+            <element signature="e#2664#2772#0" />
+            <element signature="e#2793#2837#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateUPOP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+          <folding>
+            <element signature="method#getDataEncrypt#0;class#CreateUPOP#0" />
+            <element signature="e#1140#1270#0" />
+            <element signature="e#1291#1335#0" />
+            <element signature="method#getDataEncrypt#1;class#CreateUPOP#0" />
+            <element signature="method#getDataEncrypt#2;class#CreateUPOP#0" />
+            <element signature="method#getDataEncrypt#3;class#CreateUPOP#0" />
+            <element signature="method#getKeyEncrypt#0;class#CreateUPOP#0" />
+            <element signature="e#2274#2360#0" />
+            <element signature="e#2395#2439#0" />
+            <element signature="e#2462#2506#0" />
+            <element signature="e#2537#2581#0" />
+            <element signature="e#2612#2656#0" />
+            <element signature="e#2692#2736#0" />
+            <element signature="e#2773#2817#0" />
+            <element signature="method#getKeyDecrypt#0;class#CreateUPOP#0" />
+            <element signature="e#2974#3059#0" />
+            <element signature="e#3094#3138#0" />
+            <element signature="e#3161#3205#0" />
+            <element signature="e#3236#3280#0" />
+            <element signature="e#3311#3355#0" />
+            <element signature="e#3391#3435#0" />
+            <element signature="e#3472#3516#0" />
+            <element signature="method#getDataDecrypt#0;class#CreateUPOP#0" />
+            <element signature="e#3700#3808#0" />
+            <element signature="e#3829#3873#0" />
+            <element signature="n#!!block;n#getAmount#0;n#CreateUPOP#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoxingxing/demo/jmeterTools/HttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="155" column="16" lean-forward="true" selection-start-line="155" selection-start-column="16" selection-end-line="155" selection-end-column="16" />
+          <folding>
+            <element signature="method#doGet#0;class#HttpClient#0" />
+            <element signature="e#395#1468#0" />
+            <element signature="e#973#1458#1" />
+            <element signature="e#1306#1403#1" />
+            <element signature="e#1501#1545#0" />
+            <element signature="e#1568#1612#0" />
+            <element signature="e#1621#2098#0" />
+            <element signature="e#1671#1841#1" />
+            <element signature="e#1693#1744#0" />
+            <element signature="e#1767#1827#0" />
+            <element signature="e#1871#2041#1" />
+            <element signature="e#1893#1944#0" />
+            <element signature="e#1967#2027#0" />
+            <element signature="method#doPost#0;class#HttpClient#0" />
+            <element signature="e#2379#4076#0" />
+            <element signature="e#3554#4066#1" />
+            <element signature="e#3914#4011#1" />
+            <element signature="e#4109#4153#0" />
+            <element signature="e#4176#4220#0" />
+            <element signature="e#4229#4923#0" />
+            <element signature="e#4279#4449#1" />
+            <element signature="e#4301#4352#0" />
+            <element signature="e#4375#4435#0" />
+            <element signature="e#4478#4648#1" />
+            <element signature="e#4500#4551#0" />
+            <element signature="e#4574#4634#0" />
+            <element signature="e#4677#4847#1" />
+            <element signature="e#4699#4750#0" />
+            <element signature="e#4773#4833#0" />
           </folding>
         </state>
       </provider>
@@ -844,7 +1351,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>runfa</last-edited>
+          <last-edited>tuozhong</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

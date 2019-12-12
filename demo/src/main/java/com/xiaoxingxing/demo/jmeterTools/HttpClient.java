@@ -4,6 +4,8 @@ import java.io.*;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class HttpClient {
     public static String doGet(String httpUrl) {
@@ -143,6 +145,17 @@ public class HttpClient {
             connection.disconnect();
         }
         return result;
+    }
+
+    public static String getAmount(String s) {
+        Pattern getAmount = Pattern.compile("[\\s\\S]*name='amount' value='(.*?)'><input type='hidden'[\\s\\S]*");
+        Matcher mwxzs = getAmount.matcher(s);
+        if (mwxzs.find()) {
+            System.out.println(mwxzs.group(1));
+            return mwxzs.group(1);
+        } else {
+            return "0";
+        }
     }
 }
 

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tuozhong">
+    <output-path>$PROJECT_DIR$/classes/artifacts/tuozhong</output-path>
+    <root id="archive" name="tuozhong.jar">
+      <element id="module-output" name="demo" />
+    </root>
+  </artifact>
+</component>

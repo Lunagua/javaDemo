@@ -5,6 +5,7 @@ import com.tz.demo.constant.Constant;
 import com.tz.demo.util.RSAUtils;
 import org.apache.commons.lang3.StringUtils;
 
+import java.text.DecimalFormat;
 import java.util.Map;
 import java.util.Random;
 import java.util.TreeMap;
@@ -19,25 +20,10 @@ public class BaseData {
     }
 
     public static String getAmount() {
-        Random random = new Random();
-        int ran = random.nextInt(100);
-        int num;
-        if (ran < 50) {
-            num = random.nextInt(1000);
-        } else if (ran < 80) {
-            num = random.nextInt(5000);
-        } else {
-            num = random.nextInt(20000);
-        }
-        if (1000 < num && num < 5000) {
-            num = (num / 10) * 10;
-        } else if (num < 10000 && num >= 5000) {
-            num = (num / 100) * 100;
-        } else if (num <= 20000 && num >= 10000) {
-            num = (num / 1000) * 1000;
-        }
-        return (num + ran / 100.00) + "";
+        DecimalFormat df = new DecimalFormat("######0.00");
+        return df.format((Math.random() + 10 + new Random().nextInt(1000)));
     }
+
 
     public static String generateKey() {
         String AESKey = "";
@@ -52,7 +38,10 @@ public class BaseData {
     }
 
     public static void main(String[] args) {
-        System.out.println(getAmount());
+        for (int i = 0; i < 16; i++) {
+            System.out.println(getAmount());
+        }
+
     }
 
     /**
@@ -61,7 +50,7 @@ public class BaseData {
      * @param data 参数
      * @return 转换结果
      */
-    public static Map<String, String> convert(Map<String, String> data, String merchantNo,String privateKey) throws Exception {
+    public static Map<String, String> convert(Map<String, String> data, String merchantNo, String privateKey) throws Exception {
         Map<String, String> result = new TreeMap<>(data);
 
         result.put("merchantNo", merchantNo);
@@ -87,4 +76,5 @@ public class BaseData {
         }
         return data;
     }
+
 }

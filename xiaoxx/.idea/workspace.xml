@@ -2,13 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcf6f384-3c7e-40fb-a243-600854fc07b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../runfa-demo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/CreatePayOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newDemo/src/main/java/hengXinPay/createFastPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/service/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/artifacts/runfa.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/classes/artifacts/demo_jar/demo.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateAlipayQRCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateAlipayQRCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateAlipayWap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateAlipayWap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateWechatQRCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateWechatQRCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateWechatWap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateWechatWap.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../newDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/classes/artifacts/oldDemo/oldDemo.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/classes/artifacts/oldDemo/oldDemo.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/src/main/java/caiMeng/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/src/main/java/caiMeng/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/src/main/java/hengXinPay/creatDaifu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/src/main/java/hengXinPay/creatDaifu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/target/classes/caiMeng/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/target/classes/caiMeng/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/target/classes/hengXinPay/creatDaifu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/target/classes/hengXinPay/creatDaifu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/classes/artifacts/runfa/runfa.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/classes/artifacts/runfa/runfa.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/BaseData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/BaseData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/service/DemoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/service/DemoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/util/RSAUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/util/RSAUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/BaseData.class" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/BaseData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/PayOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/PayOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/QueryBalance.class" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/QueryBalance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/RemitOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/RemitOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/service/DemoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/service/DemoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/util/RSAUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/util/RSAUtils.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -174,6 +193,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,7 +231,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -353,6 +372,7 @@
       <workItem from="1568618501825" duration="964000" />
       <workItem from="1573221127478" duration="23000" />
       <workItem from="1573437365116" duration="8000" />
+      <workItem from="1575458265836" duration="631000" />
     </task>
     <servers />
   </component>
@@ -389,12 +409,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38506000" />
+    <option name="totallyTimeSpent" value="39137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19669509" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1988273" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
