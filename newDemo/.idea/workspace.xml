@@ -10,46 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7343d970-440d-4c1e-b908-6a0f7c664ca3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../demo/.idea/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/caiMeng/createWeibo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hengXinPay/createFastPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/service/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/.idea/artifacts/runfa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/artifacts/tuozhong.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/classes/artifacts/demo_jar/demo.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateUPOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/xiaoxingxing/demo/jmeterTools/CreateUPOP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/xiaoxingxing/demo/jmeterTools/HttpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/xiaoxingxing/demo/jmeterTools/HttpClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateAlipayQRCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateAlipayQRCode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateAlipayWap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateAlipayWap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateRemit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateRemit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateUPOP.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateUPOP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateWechatQRCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateWechatQRCode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateWechatWap.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/CreateWechatWap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/HttpClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/HttpClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/QueryAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/QueryAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/QueryRemitOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/QueryRemitOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/QueryUPOPOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/QueryUPOPOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/jmeterTools/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/util/RSAUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/target/classes/com/xiaoxingxing/demo/util/RSAUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/oldDemo.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/oldDemo/oldDemo.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/caiMeng/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/caiMeng/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hengXinPay/creatDaifu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hengXinPay/creatDaifu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/caiMeng/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/caiMeng/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hengXinPay/creatDaifu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hengXinPay/creatDaifu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/classes/artifacts/runfa/runfa.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/classes/artifacts/runfa/runfa.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/BaseData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/JmeterTools/BaseData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/service/DemoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/service/DemoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/util/RSAUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/src/main/java/com/tz/demo/util/RSAUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/BaseData.class" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/BaseData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/PayOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/PayOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/QueryBalance.class" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/QueryBalance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/RemitOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/JmeterTools/RemitOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/service/DemoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/service/DemoService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/util/RSAUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../runfa-demo/target/classes/com/tz/demo/util/RSAUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xiaoxx/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xiaoxx/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -399,9 +360,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.createYSFDynamicCode">
-    <configuration name="createWeChatFixed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="caiMeng.createWeChatFixed" />
+  <component name="RunManager" selected="Application.createWeibo">
+    <configuration name="createWeibo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="caiMeng.createWeibo" />
       <module name="newDemo" />
       <extension name="coverage">
         <pattern>
@@ -467,11 +428,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.createWeibo" />
         <item itemvalue="Application.createYSFDynamicCode" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.createWxFixedPay" />
         <item itemvalue="Application.createWxzsQrCode" />
-        <item itemvalue="Application.createWeChatFixed" />
       </list>
     </recent_temporary>
   </component>
@@ -571,7 +532,7 @@
       <workItem from="1575621502102" duration="2265000" />
       <workItem from="1575855544079" duration="2262000" />
       <workItem from="1575941148732" duration="603000" />
-      <workItem from="1576131713726" duration="55000" />
+      <workItem from="1576131713726" duration="1080000" />
     </task>
     <task id="LOCAL-00001" summary="增加云闪付动态码">
       <created>1573111398346</created>
@@ -587,11 +548,18 @@
       <option name="project" value="LOCAL" />
       <updated>1573221129008</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="增加微博红包">
+      <created>1576131805141</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576131805141</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="221146000" />
+    <option name="totallyTimeSpent" value="222171000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -606,7 +574,7 @@
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994401" visible="true" weight="0.19189766" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4994401" visible="true" weight="0.19189766" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -615,7 +583,7 @@
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" weight="0.27765727" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.27765727" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3445287" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -658,7 +626,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加云闪付动态码" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加云闪付动态码" />
+    <MESSAGE value="增加微博红包" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加微博红包" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/time/Year.java">

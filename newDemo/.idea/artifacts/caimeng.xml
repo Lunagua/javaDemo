@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="caimeng">
+    <output-path>$PROJECT_DIR$/classes/artifacts/caimeng</output-path>
+    <root id="archive" name="caimeng.jar">
+      <element id="module-output" name="newDemo" />
+    </root>
+  </artifact>
+</component>
