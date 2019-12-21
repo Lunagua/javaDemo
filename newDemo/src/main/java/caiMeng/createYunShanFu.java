@@ -1,6 +1,8 @@
 package caiMeng;
 
 
+import java.text.DecimalFormat;
+
 public class createYunShanFu {
     public static String getMD5Data(String publicKey, String signKey, String merOrderNo, String amount, String notifyUrl) {
         String payType = "ysfFixedQrCode";
@@ -21,14 +23,15 @@ public class createYunShanFu {
         return getMD5Data(publicKey, signKey, amount, notifyUrl);
     }
 
-    private String amount = BaseData.getAmount();
 
     public static Object getAmount() {
         return BaseData.getMapData().get("amount");
     }
 
     public static String getMD5Data(String publicKey, String signKey) {
-        return getMD5Data(publicKey, signKey, new createYunShanFu().amount);
+        DecimalFormat df = new DecimalFormat("######0");
+        String amount = df.format((Math.random() * 490 + 10));
+        return getMD5Data(publicKey, signKey, amount);
     }
 
     public static String getCurrentTime() {

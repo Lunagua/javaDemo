@@ -58,7 +58,7 @@ public class creatDaifu {
 
     public static String getMD5Data(String publicKey, String signKey) {
         DecimalFormat df = new DecimalFormat("######0.00");
-        String amount = df.format((Math.random() * 1 + Math.random() + 100));
+        String amount = df.format((Math.random() * 100 + 100));
         return getMD5Data(publicKey, signKey, amount);
     }
 

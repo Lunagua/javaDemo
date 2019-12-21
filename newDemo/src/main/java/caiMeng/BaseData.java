@@ -2,7 +2,7 @@ package caiMeng;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
-import org.jetbrains.annotations.NotNull;
+
 
 import java.text.SimpleDateFormat;
 import java.util.*;
@@ -22,7 +22,7 @@ public class BaseData {
         return new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date());
     }
 
-    @NotNull
+
     public static String getUUID() {
         String uuid = UUID.randomUUID().toString();
         return uuid.replaceAll("-", "");

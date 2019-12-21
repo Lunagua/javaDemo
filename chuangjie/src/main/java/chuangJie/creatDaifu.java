@@ -12,13 +12,15 @@ import java.util.TreeMap;
 import java.util.UUID;
 
 public class creatDaifu {
+    static SortedMap<String, Object> MapData = new TreeMap<String, Object>();
+
     private static String getUUID() {
         String uuid = UUID.randomUUID().toString();
         return uuid.replaceAll("-", "");
     }
 
     public static String getMD5Data(String publicKey, String signKey, String amount, String bankAccountName, String bankAccountNo) {
-        SortedMap<String, Object> MapData = new TreeMap<String, Object>();
+        MapData.clear();
         long submitTime = System.currentTimeMillis();
         MapData.put("amount", amount);
         MapData.put("merOrderNo", getUUID());
@@ -58,10 +60,21 @@ public class creatDaifu {
 
     public static String getMD5Data(String publicKey, String signKey) {
         DecimalFormat df = new DecimalFormat("######0.00");
-        String amount = df.format((Math.random() * 1 + Math.random() + 100));
+        String amount = df.format((Math.random() * 100 + 100));
         return getMD5Data(publicKey, signKey, amount);
     }
 
+    public static Object getAmount() {
+        return MapData.get("amount");
+    }
+
+    public static Object getBankCard() {
+        return MapData.get("bankAccountNo");
+    }
+
+    public static String getCurrentTime() {
+        return BaseData.getFormatTime();
+    }
 
     public static void main(String[] args) {
         String publicKey = "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCaTKqTix3IVM1dnxW+D3rJPKP7hR54ICtZzh8JWG3zvb6CnEy6U8b2xKJ6AF6ESPitvgZp6AOBYdqCK1OVuW5xlEdOH0oRbMaGw2m2WrVzMIO4jHSWwUhZNCpTtR0RsNMBW+eFOhKoISM4WdnnktVbVRmO/p+G6IZXaFO4cEaSFQIDAQAB";

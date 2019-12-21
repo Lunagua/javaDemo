@@ -11,25 +11,7 @@ public class test {
     }
 
     public static void main(String[] args) {
-        for (int i = 2; i < 100; i++) {
-            if (test.isPrime(i)) {
-                System.out.print(i);
-                System.out.print(',');
-            }
-        }
-        System.out.println();
-        for (int i = 2; i < 100; i++) {
-            boolean flag = true;
-            for (int j = 2; j < i; j++) {
-                if (i % j == 0) {
-                    flag = false;
-                    break;
-                }
-            }
-            if(flag){
-                System.out.print(i);
-                System.out.print(',');
-            }
-        }
-    }
-}
+        String url = "http://4At6Hm.cjtest.cn/api/payOrder/submit/201912201655381000141/8";
+        String res = HttpClient.doGet(url);
+        System.out.print(res);
+}}

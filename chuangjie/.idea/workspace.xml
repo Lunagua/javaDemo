@@ -7,37 +7,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70b84867-a44c-41d6-a707-10df741c0cc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/chuangjie.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chuangJie/BaseData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chuangJie/GoogleCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chuangJie/HttpClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chuangJie/MD5Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chuangJie/RSACoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chuangJie/creatDaifu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chuangJie/createAliQRCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chuangJie/createCardToCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chuangJie/createWeChat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chuangJie/createWeChatToCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chuangJie/createWxFixedPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chuangJie/createWxPhoneNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chuangJie/createWxzsQrCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chuangJie/createYSFDynamicCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chuangJie/createYunShanFu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chuangJie/createZhuanka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chuangJie/createZhuanzhang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newDemo/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newDemo/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newDemo/.idea/libraries/Maven__org_jetbrains_annotations_java5_18_0_0.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chuangJie/HttpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chuangJie/HttpClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chuangJie/creatDaifu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chuangJie/creatDaifu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chuangJie/createYSFDynamicCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chuangJie/createYSFDynamicCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chuangJie/createYunShanFu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chuangJie/createYunShanFu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../newDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../newDemo/classes/artifacts/caimeng/caimeng.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/classes/artifacts/caimeng/caimeng.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newDemo/newDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/newDemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../newDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/src/main/java/caiMeng/BaseData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/src/main/java/caiMeng/BaseData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/src/main/java/caiMeng/HttpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/src/main/java/caiMeng/HttpClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/src/main/java/caiMeng/MD5Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/src/main/java/caiMeng/MD5Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/src/main/java/caiMeng/creatDaifu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/src/main/java/caiMeng/creatDaifu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/src/main/java/caiMeng/createYSFDynamicCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/src/main/java/caiMeng/createYSFDynamicCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/src/main/java/caiMeng/createYunShanFu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/src/main/java/caiMeng/createYunShanFu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/src/main/java/caiMeng/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/src/main/java/caiMeng/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/src/main/java/hengXinPay/MD5Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/src/main/java/hengXinPay/MD5Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/target/classes/caiMeng/BaseData.class" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/target/classes/caiMeng/BaseData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/target/classes/caiMeng/HttpClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/target/classes/caiMeng/HttpClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/target/classes/caiMeng/MD5Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/target/classes/caiMeng/MD5Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/target/classes/caiMeng/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/target/classes/caiMeng/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newDemo/target/classes/hengXinPay/MD5Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/../newDemo/target/classes/hengXinPay/MD5Util.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -48,36 +38,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/createZhuanzhang.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/RSACoder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/MD5Util.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
+            <state relative-caret-position="989">
               <caret line="43" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
@@ -86,8 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/HttpClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="3220">
+              <caret line="140" column="11" lean-forward="true" selection-start-line="140" selection-start-column="11" selection-end-line="140" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,32 +87,67 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/BaseData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="62" column="50" selection-start-line="62" selection-start-column="50" selection-end-line="62" selection-end-column="74" />
+            <state relative-caret-position="143">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/creatDaifu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/creatDaifu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="490">
+              <caret line="75" column="40" lean-forward="true" selection-start-line="75" selection-start-column="40" selection-end-line="75" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2727#2728#0" expanded="true" />
+                <element signature="e#2785#2786#0" expanded="true" />
+                <element signature="e#2840#2841#0" expanded="true" />
+                <element signature="e#2884#2885#0" expanded="true" />
+                <element signature="e#2933#2934#0" expanded="true" />
+                <element signature="e#2980#2981#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/createYunShanFu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/createYSFDynamicCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="33" column="54" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/createAliQRCode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" selection-start-column="8" selection-end-column="17" />
+            <state relative-caret-position="69">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/createWxFixedPay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="652">
+              <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -170,10 +173,12 @@
         <option value="$PROJECT_DIR$/src/main/java/chuangJie/createWxFixedPay.java" />
         <option value="$PROJECT_DIR$/src/main/java/chuangJie/createWxPhoneNo.java" />
         <option value="$PROJECT_DIR$/src/main/java/chuangJie/createWxzsQrCode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chuangJie/createYSFDynamicCode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chuangJie/createYunShanFu.java" />
         <option value="$PROJECT_DIR$/src/main/java/chuangJie/createZhuanka.java" />
         <option value="$PROJECT_DIR$/src/main/java/chuangJie/createZhuanzhang.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chuangJie/HttpClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chuangJie/createYunShanFu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chuangJie/createYSFDynamicCode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chuangJie/creatDaifu.java" />
       </list>
     </option>
   </component>
@@ -185,7 +190,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="-1928" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -196,6 +201,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -224,27 +231,33 @@
             <path>
               <item name="chuangjie" type="b2602c69:ProjectViewProjectNode" />
               <item name="chuangjie" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="chuangjie" type="b2602c69:ProjectViewProjectNode" />
               <item name="chuangjie" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="chuangjie" type="b2602c69:ProjectViewProjectNode" />
               <item name="chuangjie" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chuangjie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chuangjie" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="chuangJie" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,9 +292,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.createZhuanzhang">
+  <component name="RunManager" selected="Application.createYunShanFu">
+    <configuration name="HttpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chuangJie.HttpClient" />
+      <module name="chuangjie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chuangJie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="createAliQRCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chuangJie.createAliQRCode" />
+      <module name="chuangjie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chuangJie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="createYunShanFu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chuangJie.createYunShanFu" />
       <module name="chuangjie" />
       <extension name="coverage">
         <pattern>
@@ -308,6 +347,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.createYunShanFu" />
+        <item itemvalue="Application.HttpClient" />
         <item itemvalue="Application.createZhuanzhang" />
         <item itemvalue="Application.createAliQRCode" />
       </list>
@@ -323,72 +364,68 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576494621518</updated>
-      <workItem from="1576494624219" duration="2864000" />
+      <workItem from="1576494624219" duration="5569000" />
+      <workItem from="1576832251229" duration="1905000" />
+      <workItem from="1576896194271" duration="4395000" />
     </task>
+    <task id="LOCAL-00001" summary="新建创建项目">
+      <created>1576505535953</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576505535953</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2864000" />
+    <option name="totallyTimeSpent" value="11869000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.329718" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新建创建项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="新建创建项目" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/caiMeng/createPointCard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/caiMeng/createWeibo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/caiMeng/createZhuanzhang.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/caiMeng/createPointCard.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/caiMeng/createWeibo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/caiMeng/createZhuanzhang.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/createCardToCard.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="695">
@@ -410,13 +447,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/createWxFixedPay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/createWxPhoneNo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -431,20 +461,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/createYSFDynamicCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/createYunShanFu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/createZhuanka.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="347">
@@ -452,17 +468,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-184">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/test.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/createZhuanzhang.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/chuangJie/createYSFDynamicCode.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#2133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/chuangJie/createWxFixedPay.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#2113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/chuangJie/createWeChat.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#2102#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -478,18 +515,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/MD5Util.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
+        <state relative-caret-position="989">
           <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/HttpClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -510,39 +537,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/BaseData.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/createWxFixedPay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="62" column="50" selection-start-line="62" selection-start-column="50" selection-end-line="62" selection-end-column="74" />
+        <state relative-caret-position="652">
+          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/HttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3220">
+          <caret line="140" column="11" lean-forward="true" selection-start-line="140" selection-start-column="11" selection-end-line="140" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/creatDaifu.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/createYSFDynamicCode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/chuangJie/createYSFDynamicCode.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#2133#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="421">
+          <caret line="33" column="54" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/createAliQRCode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="8" selection-end-column="17" />
+        <state relative-caret-position="69">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/BaseData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/createYunShanFu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chuangJie/creatDaifu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="75" column="40" lean-forward="true" selection-start-line="75" selection-start-column="40" selection-end-line="75" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2727#2728#0" expanded="true" />
+            <element signature="e#2785#2786#0" expanded="true" />
+            <element signature="e#2840#2841#0" expanded="true" />
+            <element signature="e#2884#2885#0" expanded="true" />
+            <element signature="e#2933#2934#0" expanded="true" />
+            <element signature="e#2980#2981#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

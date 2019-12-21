@@ -167,5 +167,28 @@ public class HttpClient {
         }
     }
 
+    public static String getCardNo(String s) {
+        Pattern card2card =  Pattern.compile("[\\s\\S]<span id=\"cardNo\" data=\"cardNo\">.*?([0-9]{4})</span>[\\s\\S]*");
+        Pattern wechat2card =  Pattern.compile("[\\s\\S]<span class=\"content\" id=\"cardNo\" data=\"cardNo\">.*?([0-9]{4}) </span>[\\s\\S]*");
+        Matcher res = card2card.matcher(s);
+        Matcher res1 = wechat2card.matcher(s);
+        if (res.find()) {
+            System.out.println(res.group(1));
+            return res.group(1);
+        }else if(res1.find()){
+            System.out.println(res1.group(1));
+            return res1.group(1);
+        }else {
+            return "";
+        }
+    }
+
+    public static void main(String[] args) {
+       String url = "http://E4dyEFkX.cjtest.cn/api/payOrder/submit/201912211042201000049/30";
+       String res = HttpClient.doGet(url);
+        System.out.print(res);
+       System.out.print(HttpClient.getRemark(res));
+    }
+
 }
 

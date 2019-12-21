@@ -1,6 +1,8 @@
 package chuangJie;
 
 
+import java.text.DecimalFormat;
+
 public class createYSFDynamicCode {
     public static String getMD5Data(String publicKey, String signKey, String merOrderNo, String amount, String notifyUrl, String officialMode) {
         String payType = "ysfAccountQrCode";
@@ -28,7 +30,9 @@ public class createYSFDynamicCode {
     }
 
     public static String getMD5Data(String publicKey, String signKey, String officialMode) {
-        return getMD5Data(publicKey, signKey, new createYSFDynamicCode().amount, officialMode);
+        DecimalFormat df = new DecimalFormat("######0");
+        String amount = df.format((Math.random() * 490 + 10));
+        return getMD5Data(publicKey, signKey, amount, officialMode);
     }
 
     public static String getCurrentTime() {

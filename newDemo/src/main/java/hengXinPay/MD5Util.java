@@ -1,7 +1,7 @@
 package hengXinPay;
 
 
-import org.jetbrains.annotations.NotNull;
+
 
 import java.security.MessageDigest;
 
@@ -41,7 +41,7 @@ public class MD5Util {
         }
     }
 
-    @NotNull
+
     public static String ToLowerMD5(String key, String charset) {
         return MD5Util.MD5(key, charset).toLowerCase();
     }

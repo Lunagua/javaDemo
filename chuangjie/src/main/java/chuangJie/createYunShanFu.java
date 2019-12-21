@@ -1,6 +1,8 @@
 package chuangJie;
 
 
+import java.text.DecimalFormat;
+
 public class createYunShanFu {
     public static String getMD5Data(String publicKey, String signKey, String merOrderNo, String amount, String notifyUrl, String officialMode) {
         String payType = "ysfFixedQrCode";
@@ -21,14 +23,15 @@ public class createYunShanFu {
         return getMD5Data(publicKey, signKey, amount, notifyUrl, officialMode);
     }
 
-    private String amount = BaseData.getAmount();
 
     public static Object getAmount() {
         return BaseData.getMapData().get("amount");
     }
 
     public static String getMD5Data(String publicKey, String signKey, String officialMode) {
-        return getMD5Data(publicKey, signKey, new createYunShanFu().amount, officialMode);
+        DecimalFormat df = new DecimalFormat("######0");
+        String amount = df.format((Math.random() * 490 + 10));
+        return getMD5Data(publicKey, signKey, amount, officialMode);
     }
 
     public static String getCurrentTime() {
@@ -36,9 +39,13 @@ public class createYunShanFu {
     }
 
     public static void main(String[] args) {
-        String publicKey = "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCaTKqTix3IVM1dnxW+D3rJPKP7hR54ICtZzh8JWG3zvb6CnEy6U8b2xKJ6AF6ESPitvgZp6AOBYdqCK1OVuW5xlEdOH0oRbMaGw2m2WrVzMIO4jHSWwUhZNCpTtR0RsNMBW+eFOhKoISM4WdnnktVbVRmO/p+G6IZXaFO4cEaSFQIDAQAB";
-        String MD5 = "6a187320658d05f7a0848098d0495f3f";
-        getMD5Data(publicKey, MD5,"1");
-
+//        String publicKey = "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCaTKqTix3IVM1dnxW+D3rJPKP7hR54ICtZzh8JWG3zvb6CnEy6U8b2xKJ6AF6ESPitvgZp6AOBYdqCK1OVuW5xlEdOH0oRbMaGw2m2WrVzMIO4jHSWwUhZNCpTtR0RsNMBW+eFOhKoISM4WdnnktVbVRmO/p+G6IZXaFO4cEaSFQIDAQAB";
+//        String MD5 = "6a187320658d05f7a0848098d0495f3f";
+//        getMD5Data(publicKey, MD5,"1");
+        DecimalFormat df = new DecimalFormat("######0");
+        for(int i=0;i<100;i++) {
+            String amount = df.format((Math.random() * 500 ));
+            System.out.println(amount);
+        }
     }
 }
