@@ -60,7 +60,7 @@ public class BaseData {
         MapData.put("bankCode", "ICBC");
         MapData.put("orderIp", "192.168.23.55");
         MapData.put("submitTime", submitTime);
-        MapData.put("officialMode",officialMode); //officialMode（1全包 0非全包）
+        MapData.put("officialMode", officialMode); //officialMode（1全包 0非全包）
 
         StringBuffer buff = new StringBuffer();
         for (Map.Entry<String, Object> en : MapData.entrySet()) {
@@ -86,5 +86,11 @@ public class BaseData {
         return data;
     }
 
+    public static String getMerOrderNo() {
+        return MapData.get("merOrderNo").toString();
+    }
 
+    public static String getSubmitTime() {
+        return MapData.get("submitTime").toString();
+    }
 }

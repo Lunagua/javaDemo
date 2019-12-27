@@ -67,6 +67,13 @@ public class creatDaifu {
     public static Object getAmount() {
         return MapData.get("amount");
     }
+    public static String getMerOrderNo() {
+        return MapData.get("merOrderNo").toString();
+    }
+
+    public static String getSubmitTime() {
+        return MapData.get("submitTime").toString();
+    }
 
     public static Object getBankCard() {
         return MapData.get("bankAccountNo");
